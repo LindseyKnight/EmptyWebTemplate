@@ -1,0 +1,13 @@
+﻿$font-primary: 'Open Sans', sans-serif;
+$font-color-primary: #333;
+$font-color-blue-light: #0094ff;
+
+body {
+    margin: 0;
+    font: 100% $font-primary;
+    color: $font-color-primary;
+}
+
+h2 {
+    color: $font-color-blue-light;
+}
